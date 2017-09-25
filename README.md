@@ -78,7 +78,6 @@ license. See [LICENSE](LICENSE) for more information.
 
 For more information about Abseil:
 
-* Consult our [Abseil Introduction](http://abseil.io/about/about/intro)
 * Read [Why Adopt Abseil](http://abseil.io/about/philosophy) to understand our
   design philosophy.
 * Peruse our [Abseil Project Contract](http://abseil.io/about/contract) to
